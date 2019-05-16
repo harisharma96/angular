@@ -39,7 +39,7 @@ After completing all tutorial steps, the final app will look like this: <live-ex
 
 ## What you'll build
 
-Here's a visual idea of where this tutorial leads, beginning with the "Dashboard"
+Here's a visual ideas of where this tutorial leads, beginning with the "Dashboard"
 view and the most heroic heroes:
 
 <figure>
